@@ -2,6 +2,7 @@ import "./HeroHeader.css";
 import logoImg from "../assets/logo.png";        // your logo
 import heroImg from "../assets/Group 11.png";
 export default function HeaderSection() {
+
   return (<section className="ih-hero" id="home">
       <div className="ih-bg" aria-hidden="true" />
 
