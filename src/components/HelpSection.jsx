@@ -27,11 +27,11 @@ export default function HelpSection() {
               <li><Check /> Scalable backend architecture</li>
             </ul>
           </div>
-
+{/* 
           <div className="wideRight" aria-hidden="true">
             <button className="navPill">‹</button>
             <button className="navPill">›</button>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
